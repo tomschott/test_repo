@@ -1,2 +1,1 @@
-# New test repo
 # hello
